@@ -6,7 +6,9 @@ import Third from './Third'
 import Fourth from './Fourth'
 import Fifth from './Fifth'
 import Sixth from './Sixth'
-import Eight from './assets/Eight'
+import Eight from './Eight'
+import Nine from './Nine'
+import Twelve from './Twelve'
 
 
 
@@ -21,7 +23,9 @@ function App() {
       {/* <Fourth/> */}
       {/* <Fifth/> */}
       {/* <Sixth/> */}
-      <Eight/>
+      {/* <Eight/> */}
+      {/* <Nine/> */}
+      <Twelve/>
       
     </>
   )
