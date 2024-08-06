@@ -9,6 +9,12 @@ import Sixth from './Sixth'
 import Eight from './Eight'
 import Nine from './Nine'
 import Twelve from './Twelve'
+import Fourteen from './Fourteen'
+import Fifteen from './Fifteen'
+import Seventeen from './Seventeen'
+import Test from './Test'
+import Thirteen from './Thirteen'
+
 
 
 
@@ -17,16 +23,26 @@ function App() {
 
   return (
     <>
-      {/*<First/> */}
-      {/* <Second/ > */}
+      {/* <First/> */}
+      {/* <Second/> */}
       {/* < Third/> */}
       {/* <Fourth/> */}
-      {/* <Fifth/> */}
+      {/* <Fifth/>  */}
       {/* <Sixth/> */}
       {/* <Eight/> */}
       {/* <Nine/> */}
-      <Twelve/>
+      {/* <Twelve/> */}
+      <Thirteen/>
+      {/* <Fourteen/> */}
+      {/* <Fifteen/> */}
+      {/* <Seventeen/> */}
       
+
+      
+     
+     
+      
+
     </>
   )
 }

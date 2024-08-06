@@ -10,6 +10,7 @@ function Sixth() {
             return ()=> clearTimeout(timer)
         }    
     },[time])
+    
   return (
     <h3>Time left = {time} second</h3>
   )
